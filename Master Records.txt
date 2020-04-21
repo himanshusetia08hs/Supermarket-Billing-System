@@ -1,0 +1,32 @@
+***** *SUPER MARKET* *****
+      Billing System 
+
+     CUSTOMER'S BILL
+
+Customer name :- garry
+ 
+1. Code: 101 Name: ggg Quantity: 5 Price: 7 Total: 35
+ 
+2. Code: 102 Name: yyyoi Quantity: 4 Price: 1 Total: 4
+ 
+3. Code: 8 Name: 8 Quantity: 8 Price: 89 Total: 712
+ 
+4. Code: 3 Name: ret Quantity: 6 Price: 5 Total: 30
+
+GRAND TOTAL AMOUNT :- 781
+
+***** *SUPER MARKET* *****
+      Billing System 
+
+     CUSTOMER'S BILL
+
+Customer name :- reckou gh        Phn No. : 5412658452
+ 
+1. Code: 5 Name: 5 Quantity: 5 Price: 5 Total: 25
+ 
+2. Code: 7 Name: 7 Quantity: 7 Price: 7 Total: 49
+ 
+3. Code: 3 Name: 3 Quantity: 3 Price: 3 Total: 9
+
+GRAND TOTAL AMOUNT :- 83
+
