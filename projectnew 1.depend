@@ -1,5 +1,9 @@
 # depslib dependency file v1.0
+<<<<<<< HEAD
 1587467336 source:d:\a30\c++ programs\projectnew 1\main.cpp
+=======
+1587306953 source:d:\a30\c++ programs\projectnew 1\main.cpp
+>>>>>>> origin/master
 	<iostream>
 	<windows.h>
 	<stdio.h>

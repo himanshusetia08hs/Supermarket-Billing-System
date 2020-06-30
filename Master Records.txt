@@ -30,6 +30,7 @@ Customer name :- reckou gh        Phn No. : 5412658452
 
 GRAND TOTAL AMOUNT :- 83
 
+<<<<<<< HEAD
 ***** *SUPER MARKET* *****
       Billing System 
 
@@ -134,3 +135,5 @@ Customer name :- rohan kumar        Phn No. : 9665452145
 
 GRAND TOTAL AMOUNT :- 218
 
+=======
+>>>>>>> origin/master
