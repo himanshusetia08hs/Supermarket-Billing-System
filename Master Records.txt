@@ -1,0 +1,136 @@
+***** *SUPER MARKET* *****
+      Billing System 
+
+     CUSTOMER'S BILL
+
+Customer name :- garry
+ 
+1. Code: 101 Name: ggg Quantity: 5 Price: 7 Total: 35
+ 
+2. Code: 102 Name: yyyoi Quantity: 4 Price: 1 Total: 4
+ 
+3. Code: 8 Name: 8 Quantity: 8 Price: 89 Total: 712
+ 
+4. Code: 3 Name: ret Quantity: 6 Price: 5 Total: 30
+
+GRAND TOTAL AMOUNT :- 781
+
+***** *SUPER MARKET* *****
+      Billing System 
+
+     CUSTOMER'S BILL
+
+Customer name :- reckou gh        Phn No. : 5412658452
+ 
+1. Code: 5 Name: 5 Quantity: 5 Price: 5 Total: 25
+ 
+2. Code: 7 Name: 7 Quantity: 7 Price: 7 Total: 49
+ 
+3. Code: 3 Name: 3 Quantity: 3 Price: 3 Total: 9
+
+GRAND TOTAL AMOUNT :- 83
+
+***** *SUPER MARKET* *****
+      Billing System 
+
+     CUSTOMER'S BILL
+
+Customer name :- tim ghar        Phn No. : 5487458745
+ 
+1. Code: 8 Name: perfume Quantity: 5 Price: 2 Total: 10
+
+GRAND TOTAL AMOUNT :- 10
+
+***** *SUPER MARKET* *****
+      Billing System 
+
+     CUSTOMER'S BILL
+
+Customer name :- himanshu setia        Phn No. : 1212121212
+ 
+1. Code: 5 Name: sugar Quantity: 9 Price: 4 Total: 36
+ 
+2. Code: 6 Name: abg Quantity: 5 Price: 2 Total: 10
+
+GRAND TOTAL AMOUNT :- 46
+
+***** *SUPER MARKET* *****
+      Billing System 
+
+     CUSTOMER'S BILL
+
+Customer name :- Alex Bejjos        Phn No. : 9635695658
+ 
+1. Code: 1 Name: abc Quantity: 8 Price: 4 Total: 32
+ 
+2. Code: 2 Name: efg Quantity: 5 Price: 7 Total: 35
+ 
+3. Code: 4 Name: rst Quantity: 4 Price: 8 Total: 32
+ 
+4. Code: 5 Name: lmn Quantity: 55 Price: 20 Total: 1100
+ 
+5. Code: 6 Name: uvw Quantity: 9 Price: 42 Total: 378
+ 
+6. Code: 7 Name: def Quantity: 2 Price: 2 Total: 4
+ 
+7. Code: 4p Name: xyz Quantity: 2 Price: 4 Total: 8
+
+GRAND TOTAL AMOUNT :- 1589
+
+***** *SUPER MARKET* *****
+      Billing System 
+
+     CUSTOMER'S BILL
+
+Customer name :- Alex Bejjos        Phn No. : 9635695658
+ 
+1. Code: 1 Name: abc Quantity: 8 Price: 4 Total: 32
+ 
+2. Code: 2 Name: efg Quantity: 5 Price: 7 Total: 35
+ 
+3. Code: 4 Name: rst Quantity: 4 Price: 8 Total: 32
+ 
+4. Code: 5 Name: lmn Quantity: 55 Price: 20 Total: 1100
+ 
+5. Code: 6 Name: uvw Quantity: 9 Price: 42 Total: 378
+ 
+6. Code: 7 Name: def Quantity: 2 Price: 2 Total: 4
+ 
+7. Code: 4p Name: xyz Quantity: 2 Price: 4 Total: 8
+
+GRAND TOTAL AMOUNT :- 1589
+
+***** *SUPER MARKET* *****
+      Billing System 
+
+     CUSTOMER'S BILL
+
+Customer name :- abc def        Phn No. : 9876543210
+ 
+1. Code: 2 Name: rice Quantity: 2 Price: 50 Total: 100
+ 
+2. Code: 3 Name: sugar Quantity: 6 Price: 8 Total: 48
+ 
+3. Code: C76 Name: bread Quantity: 5 Price: 10 Total: 50
+ 
+4. Code: TL2 Name: jam Quantity: 6 Price: 35 Total: 210
+
+GRAND TOTAL AMOUNT :- 408
+
+***** *SUPER MARKET* *****
+      Billing System 
+
+     CUSTOMER'S BILL
+
+Customer name :- rohan kumar        Phn No. : 9665452145
+ 
+1. Code: 4p Name: rice Quantity: 4 Price: 30 Total: 120
+ 
+2. Code: L9 Name: sugar Quantity: 2 Price: 10 Total: 20
+ 
+3. Code: G2 Name: candle Quantity: 6 Price: 5 Total: 30
+ 
+4. Code: R3 Name: jam Quantity: 4 Price: 12 Total: 48
+
+GRAND TOTAL AMOUNT :- 218
+
